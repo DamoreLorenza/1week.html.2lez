@@ -1,0 +1,40 @@
+header h5{
+    color: darkcyan;
+    text-align: center;
+    
+}
+main h1{
+    text-align: center;
+}
+
+#rr{color: red;}
+
+.container{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+figure img{
+    margin: 0%;
+}
+header hr{
+    height: 1px;
+    background-color: rgb(253, 181, 46);
+}
+main hr{
+    height: 1px;
+    background-color:rgb(0, 136, 255);
+}
+h5 span{color: rgb(57, 57, 179);}
+
+.bontainer{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+figcaption{color: grey;
+text-align: center;}
+a{color:rgb(0, 172, 210);}
+header img{
+justify-content: flex-end;
+}
