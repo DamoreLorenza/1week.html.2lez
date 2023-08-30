@@ -10,9 +10,7 @@ main h1{
 #rr{color: red;}
 
 .container{
-    width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
 }
 figure img{
     margin: 0%;
@@ -36,5 +34,8 @@ figcaption{color: grey;
 text-align: center;}
 a{color:rgb(0, 172, 210);}
 header img{
-justify-content: flex-end;
+    text-align: center;
+}
+.divuno{
+    background-color: rgb(255, 218, 150);
 }
